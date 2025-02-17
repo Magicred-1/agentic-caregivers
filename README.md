@@ -3,6 +3,9 @@
 ## 📌 Description
 This project aims to reduce rehospitalization risks for high-risk patients (post-operative, chronic diseases, postpartum, etc.) through a proactive artificial intelligence system. Doctors can configure a custom AI agent based on the patient's pathology, particularly in geriatrics, where multiple agents collaborate for optimal monitoring.
 
+## 🏆 **Winner of the Doctolib AI x One Health Hackathon 2025**
+(Djason Gadiou / Adrien Ezerzer / Louis Martinez / Jacques Sun)
+
 ## Overview
 This AI-powered system enhances interactions between doctors and patients by integrating:
 - **Web research** for relevant medical insights
